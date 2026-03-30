@@ -1,0 +1,1 @@
+GEN_CSRCS += lv_font_Abel_regular_12.c lv_font_montserratMedium_12.c lv_font_Amiko_Regular_12.c lv_font_Abel_regular_15.c
