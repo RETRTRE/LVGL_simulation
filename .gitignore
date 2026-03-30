@@ -6,5 +6,4 @@ demo
 .pydevproject
 /.metadata/
 /.tracecompass
-build/
-bin/
+

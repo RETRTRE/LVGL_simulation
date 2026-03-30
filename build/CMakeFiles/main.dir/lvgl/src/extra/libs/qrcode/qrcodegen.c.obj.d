@@ -1,0 +1,30 @@
+CMakeFiles/main.dir/lvgl/src/extra/libs/qrcode/qrcodegen.c.obj: \
+ D:\D\LVGL\lvgl_template_v8.3\lvgl\src\extra\libs\qrcode\qrcodegen.c \
+ C:/mingw64/lib/gcc/x86_64-w64-mingw32/6.3.0/include-fixed/limits.h \
+ C:/mingw64/lib/gcc/x86_64-w64-mingw32/6.3.0/include-fixed/syslimits.h \
+ C:/mingw64/x86_64-w64-mingw32/include/limits.h \
+ C:/mingw64/x86_64-w64-mingw32/include/crtdefs.h \
+ C:/mingw64/x86_64-w64-mingw32/include/_mingw.h \
+ C:/mingw64/x86_64-w64-mingw32/include/_mingw_mac.h \
+ C:/mingw64/x86_64-w64-mingw32/include/_mingw_secapi.h \
+ C:/mingw64/x86_64-w64-mingw32/include/vadefs.h \
+ C:/mingw64/x86_64-w64-mingw32/include/sdks/_mingw_directx.h \
+ C:/mingw64/x86_64-w64-mingw32/include/sdks/_mingw_ddk.h \
+ C:/mingw64/x86_64-w64-mingw32/include/stdlib.h \
+ C:/mingw64/x86_64-w64-mingw32/include/sec_api/stdlib_s.h \
+ C:/mingw64/x86_64-w64-mingw32/include/malloc.h \
+ C:/mingw64/x86_64-w64-mingw32/include/string.h \
+ C:/mingw64/x86_64-w64-mingw32/include/sec_api/string_s.h \
+ D:\D\LVGL\lvgl_template_v8.3\lvgl\src\extra\libs\qrcode\qrcodegen.h \
+ C:/mingw64/lib/gcc/x86_64-w64-mingw32/6.3.0/include/stdbool.h \
+ C:/mingw64/lib/gcc/x86_64-w64-mingw32/6.3.0/include/stddef.h \
+ C:/mingw64/x86_64-w64-mingw32/include/stddef.h \
+ C:/mingw64/lib/gcc/x86_64-w64-mingw32/6.3.0/include/stdint.h \
+ C:/mingw64/x86_64-w64-mingw32/include/stdint.h \
+ D:/D/LVGL/lvgl_template_v8.3/lvgl/src/misc/lv_assert.h \
+ D:/D/LVGL/lvgl_template_v8.3/lvgl/src/lv_conf_internal.h \
+ D:/D/LVGL/lvgl_template_v8.3/lvgl/src/lv_conf_kconfig.h \
+ D:/D/LVGL/lvgl_template_v8.3/lv_conf.h \
+ D:/D/LVGL/lvgl_template_v8.3/lvgl/src/misc/lv_log.h \
+ D:/D/LVGL/lvgl_template_v8.3/lvgl/src/misc/lv_types.h \
+ D:/D/LVGL/lvgl_template_v8.3/lvgl/src/misc/lv_mem.h

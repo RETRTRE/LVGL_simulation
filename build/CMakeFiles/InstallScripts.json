@@ -1,0 +1,7 @@
+{
+	"InstallScripts" : 
+	[
+		"D:/D/LVGL/lvgl_template_v8.3/build/cmake_install.cmake"
+	],
+	"Parallel" : false
+}
